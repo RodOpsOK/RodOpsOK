@@ -11,7 +11,6 @@
 - 🌱 Currently learning and deepening my skills in **DevOps**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oleh-kovalievskyi/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Started my career fixing printers and cables as a Sysadmin — now I automate entire infrastructures with code instead 🙂
 
 <br>
 
